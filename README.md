@@ -6,9 +6,9 @@ Aulas e Exercícios.
 
 ### Módulos
 
-- [X] [Vetores, Arrays e Listas](#vetores-arrays-e-listas)
-- [x] [Pilhas](#pilhas)
-- [x] [Filas](#filas)
+- :white_check_mark: [Vetores, Arrays e Listas](#vetores-arrays-e-listas)
+- :white_check_mark: [Pilhas](#pilhas)
+- :white_check_mark: [Filas](#filas)
 
 ***
 
@@ -16,25 +16,25 @@ Aulas e Exercícios.
 
 #### Vetores, Arrays e Listas
 
-- [x] 01: Introdução a Estrutura de Dados e Algoritmos
-- [x] 02: Vetores e Arrays: Introdução
-- [x] 03: Adicionar elemento no final do vetor
-- [x] 04: Verificar tamanho e imprimir elementos do vetor
-- [x] 05: Obter elemento de uma posição
-- [x] 06: Verificar se elemento existe no vetor (busca sequencial)
-- [x] 07: Adicionar elemento em qualquer posição
-- [x] 08: Aumentar capacidade do vetor
-- [x] 09: Remover elemento do vetor
-- [x] 10: Generalizar o tipo do vetor
-- [x] 11: Configurar o tipo do vetor dinamicamente (Generics)
-- [x] 12: API Java: ArrayList
-- [x] 13: Exer 01 método contém
-- [x] 14: Exer 02 método último indice
-- [x] 15: Exer 03 método remove elemento
-- [x] 16: Exer 04 método obtém (get)
-- [x] 17: Exer 05 método remover todos elementos (clear)
-- [x] 18: Exer 06 Contatos - Lista
-- [X] 19: Exer 07 Contatos - ArrayList
+- :white_check_mark: 01: Introdução a Estrutura de Dados e Algoritmos
+- :white_check_mark: 02: Vetores e Arrays: Introdução
+- :white_check_mark: 03: Adicionar elemento no final do vetor
+- :white_check_mark: 04: Verificar tamanho e imprimir elementos do vetor
+- :white_check_mark: 05: Obter elemento de uma posição
+- :white_check_mark: 06: Verificar se elemento existe no vetor (busca sequencial)
+- :white_check_mark: 07: Adicionar elemento em qualquer posição
+- :white_check_mark: 08: Aumentar capacidade do vetor
+- :white_check_mark: 09: Remover elemento do vetor
+- :white_check_mark: 10: Generalizar o tipo do vetor
+- :white_check_mark: 11: Configurar o tipo do vetor dinamicamente (Generics)
+- :white_check_mark: 12: API Java: ArrayList
+- :white_check_mark: 13: Exer 01 método contém
+- :white_check_mark: 14: Exer 02 método último indice
+- :white_check_mark: 15: Exer 03 método remove elemento
+- :white_check_mark: 16: Exer 04 método obtém (get)
+- :white_check_mark: 17: Exer 05 método remover todos elementos (clear)
+- :white_check_mark: 18: Exer 06 Contatos - Lista
+- :white_check_mark: 19: Exer 07 Contatos - ArrayList
 
 ***
 
@@ -42,20 +42,20 @@ Aulas e Exercícios.
 
 #### Pilhas
 
-- [x] 01: Pilhas: Introdução
-- [x] 02: Empilhar elemento (push)
-- [x] 03: Verificar se pilha está vazia
-- [x] 04: Espiar/Verificar elemento do topo (peek)
-- [x] 05: Desempilhar elemento (pop)
-- [x] 06: API Java:Stack
-- [x] 07: Empilha e desempilha
-- [x] 08: Pilhas par ou ímpar
-- [x] 09: Pilha de Livros
-- [x] 10: Stack de Livros
-- [x] 11: Desafio do Palíndromo
-- [x] 12: Desafio dos símbolos balanceados
-- [x] 13: Desafio conversão decimal-binário
-- [x] 14: Desafio Torre de Hanoi
+- :white_check_mark: 01: Pilhas: Introdução
+- :white_check_mark: 02: Empilhar elemento (push)
+- :white_check_mark: 03: Verificar se pilha está vazia
+- :white_check_mark: 04: Espiar/Verificar elemento do topo (peek)
+- :white_check_mark: 05: Desempilhar elemento (pop)
+- :white_check_mark: 06: API Java:Stack
+- :white_check_mark: 07: Empilha e desempilha
+- :white_check_mark: 08: Pilhas par ou ímpar
+- :white_check_mark: 09: Pilha de Livros
+- :white_check_mark: 10: Stack de Livros
+- :white_check_mark: 11: Desafio do Palíndromo
+- :white_check_mark: 12: Desafio dos símbolos balanceados
+- :white_check_mark: 13: Desafio conversão decimal-binário
+- :white_check_mark: 14: Desafio Torre de Hanoi
 
 ***
 
@@ -63,13 +63,13 @@ Aulas e Exercícios.
 
 #### Filas
 
-- [x] 01: Filas: Introdução
-- [x] 02: Enfileirar (adicionar) elemento (enqueue)
-- [x] 03: Espiar/Verificar elemento início da fila (peek)
-- [x] 04: Desenfileirar (remover) elemento da fila (dequeue)
-- [x] 05: API Java: Queue
-- [x] 06: Filas com Prioridade
-- [x] 07: API Java: PriorityQueue
+- :white_check_mark: 01: Filas: Introdução
+- :white_check_mark: 02: Enfileirar (adicionar) elemento (enqueue)
+- :white_check_mark: 03: Espiar/Verificar elemento início da fila (peek)
+- :white_check_mark: 04: Desenfileirar (remover) elemento da fila (dequeue)
+- :white_check_mark: 05: API Java: Queue
+- :white_check_mark: 06: Filas com Prioridade
+- :white_check_mark: 07: API Java: PriorityQueue
 
 ***
 
