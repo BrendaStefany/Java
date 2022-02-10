@@ -1,4 +1,4 @@
-## ☕ Curso Estrutura de Dados com Java by @loiane.training
+## Curso Estrutura de Dados by @loiane.training
 
 Aulas e Exercícios.
 
